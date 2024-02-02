@@ -1,0 +1,9 @@
+noun = input("Enter a noun: ")
+adjective = input("Enter an adjective: ")
+verb = input("Enter a verb: ")
+pronoun = input("Enter a pronoun: ")
+
+print("I am ", noun)
+print("I am ", adjective)
+print("I ", verb, " everyday")
+print(pronoun, " is good for your health")
